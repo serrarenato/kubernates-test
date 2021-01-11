@@ -1,7 +1,7 @@
 # Descrição
 
     Projeto para teste de Kubernates, com services, pods e configmap
-    ![Arquitetura do Projeto](images/arquitetura.jpeg)
+![Arquitetura do Projeto](images/arquitetura.jpeg)
     
 # Requisitos:
     Instalar kubectl
